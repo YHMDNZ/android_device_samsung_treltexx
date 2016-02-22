@@ -39,4 +39,9 @@
         "target_path": "kernel/samsung/trelte",
         "branch": "cm-13.0"
     },
+    {
+        "repository": "TheMuppets/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "cm-13.0"
+    }
 ]
